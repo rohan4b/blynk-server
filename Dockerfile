@@ -1,3 +1,4 @@
+#!/bin/bash
 FROM openjdk:11-jre
 MAINTAINER Michael Ferguson <mpherg@gmail.com>
 
